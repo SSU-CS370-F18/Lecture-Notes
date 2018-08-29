@@ -2,11 +2,15 @@
 - [Class Overview](ClassOverview.pdf)
 - [Syllabus](Syllabus.pdf)
 - [Calendar](Calendar.pdf)
+* [Git Cheatsheet](Git-Cheatsheet.md)
 
 
 ### Lecture Slides
-* (coming soon)
+- Java and OOP
+- Intro to Android
+- Activities and Intents
+* Architecture Terminology
 
-### Lecture Notes
-- [Inheritance example](Inheritance.java)
-- [Polymorphism example](SuperHero.java)
+### Examples
+- [Inheritance example](examples/Inheritance.java)
+- [Polymorphism example](examples/SuperHero.java)
