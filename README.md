@@ -6,10 +6,11 @@
 
 
 ### Lecture Slides
-- Java and OOP
-- Intro to Android
-- Activities and Intents
-* Architecture Terminology
+- [Java and OOP](lectures/JavaAndOOP.pdf)
+- [Intro to Android](lectures/WhatIsAndroid.pdf)
+- [Activities and Intents](lectures/ActivitiesAndIntents.pdf)
+* [Architecture Terminology](lectures/ArchitectureTerminology.pdf)
+
 
 ### Examples
 - [Inheritance example](examples/Inheritance.java)

@@ -33,10 +33,19 @@ There is no guarantee they will not vanish if the command doesn't run smoothly.
   - you will want to be _on_ the branch you want to add the changes to
   - double check which branch you are on using `git branch` before merging
 - There may be _merge conflicts_. You will need to go into each file and manually resolve the conflicts to complete the merge.
-  - Once conflicts are resolved, make a new commit. Commonly known as a _merge commit_ and the commit message often looks similar to this:  
-    "merged branchname into master"
-- `git merge --abort` undoes a merge-in-progress and restores state to before the merge
+  - merge conflicts will look like this:
+    ```java
+    <<<<<<<  HEAD
+    Hello world
+    =======  
+    Goodbye
+    >>>>>>>
+    ```
+  - Once conflicts are resolved and the conflict indicators deleted, make a new commit. Commonly known as a _merge commit_, the message often looks like this:  
+    `"merged branchname into master"`
+* `git merge --abort` undoes a merge-in-progress and restores state to before the merge
   - any uncommitted changes from before the merge are almost certainly lost
+  - this won't _undo_ a merge, it only _stops_ a running merge
 
 
 ## Working on a Branch
@@ -48,6 +57,7 @@ There is no guarantee they will not vanish if the command doesn't run smoothly.
   - any files not staged with `git add` will not be saved in the commit
 * `git push origin branchname` pushes all _committed_ local changes up to the remote
   - if this is a new branch (not yet on remote), add the `-u` flag to automatically have git track the new branch
+  - this specifies the new remote branch as the point of reference for subsequent pulls or fetches.
 
 ### Updating or Restoring your Work
 - `git fetch` syncs your local repository with the remote
