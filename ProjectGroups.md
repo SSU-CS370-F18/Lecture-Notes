@@ -18,7 +18,7 @@
 - Connor Littleton
 - Gleb Kruchinin
 - Joey Robinson
-- Jonathon Soto
+- Jonathan Gil
 
 ### Team 3.4
 - Kyle de Bord
