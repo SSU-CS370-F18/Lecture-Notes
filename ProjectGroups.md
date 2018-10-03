@@ -46,7 +46,7 @@
 
 ## Section 4
 
-### Team Goldsplit (TM)
+### Team Goldsplit ™
 - Warren Goodson
 - Lucas Bebervanzo
 - Jakob Evans
