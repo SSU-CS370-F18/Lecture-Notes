@@ -2,7 +2,7 @@
 
 ## Section 3
 
-### Team 3.1
+### Eyass
 - Grant Fonseca
 - Elliot Newman
 - Haley Psomas-Sheridan
@@ -32,7 +32,7 @@
 - Isaac Davidson
 - Samueal Smetzer
 
-### Team 3.7
+### Noo Eyass
 - Wilkin Garcia
 - Jonas Bueno
 - Isaac Florez
