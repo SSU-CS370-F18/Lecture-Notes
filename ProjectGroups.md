@@ -10,7 +10,7 @@
 - Johnathan Soto
 
 ### The Best Programmers
-**Unnamed Game: TBD**
+_Unnamed Game: TBD_
 - Colin Dutra
 - Carter Hamblin
 - Collin Sperry
@@ -31,11 +31,6 @@
 - Devan Royal
 - Robert Rojas
 
-### Insert Name Here
-- Darin Brown
-- Jack Weatherford
-- Isaac Davidson
-- Samueal Smetzer
 
 ### Noo Eyass
 **Stick Jumper**
@@ -54,20 +49,30 @@
 ## Section 4
 
 ### Team Goldsplit ™
+**Image Processing**
 - Warren Goodson
 - Lucas Bebervanzo
 - Jakob Evans
 - Brian Lee
 
 ### Team 4.2
+**Base Converter**
 - Nick Flouty
 - Kunal Patel
 - Evan Maier
 - Michael Carr
 
-### Team 4.7
+### PlantTrackers
+**Plant Tracker**
 - Grace Montenegro
 - Raven Clayborn
 - Juan Martinez
 - Luis R
+
+### Insert Name Here
+**Soundboard**
+- Darin Brown
+- Jack Weatherford
+- Isaac Davidson
+- Samuel Smetzer
 
