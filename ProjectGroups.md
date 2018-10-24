@@ -24,27 +24,27 @@ _Unnamed Game: TBD_
 - Jonathan Gil
 
 
-### Team 3.4
-**Sandwich Maker**
+### Petrichor
+**BandMaster**
 - Kyle de Bord
 - David Sapp
 - Devan Royal
 - Robert Rojas
 
 
-### Noo Eyass
+### Bluez Cluez
 **Stick Jumper**
 - Wilkin Garcia
 - Jonas Bueno
 - Isaac Florez
 - Jonathan Ordaz
 
-### 404 Not Found
+### 404 Group Not Found
 **Recipe App**
 - Toby Winegarner
 - Andrew Langwell
 - Adam Miller
-- Channning Christy
+- Channing Christy
 
 ## Section 4
 
@@ -67,7 +67,7 @@ _Unnamed Game: TBD_
 - Grace Montenegro
 - Raven Clayborn
 - Juan Martinez
-- Luis R
+- Luis Robledo
 
 ### Insert Name Here
 **Soundboard**
